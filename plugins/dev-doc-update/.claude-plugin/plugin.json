@@ -1,0 +1,9 @@
+{
+  "name": "dev-doc-update",
+  "version": "1.0.0",
+  "description": "Update dev documentation before context compaction",
+  "author": {
+    "name": "Shalva",
+    "email": "shalva@nimbus21.ai"
+  }
+}

@@ -101,6 +101,17 @@
       },
       "source": "./plugins/dev-doc-update",
       "category": "documentation-context"
+    },
+        {
+      "name": "dev-doc-create",
+      "description": "Create dev documentation before context compaction",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shalva Dvaladze",
+        "email": "shalva@nimbus21.ai"
+      },
+      "source": "./plugins/dev-doc-create",
+      "category": "documentation-context"
     }
   ]
 }

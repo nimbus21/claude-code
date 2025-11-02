@@ -1,0 +1,9 @@
+{
+  "name": "dev-doc-create",
+  "version": "1.0.0",
+  "description": "Create dev documentation",
+  "author": {
+    "name": "Shalva",
+    "email": "shalva@nimbus21.ai"
+  }
+}
