@@ -90,6 +90,17 @@
       },
       "source": "./plugins/learning-output-style",
       "category": "learning"
+    },
+    {
+      "name": "dev-doc-update",
+      "description": "Update dev documentation before context compaction",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shalva Dvaladze",
+        "email": "shalva@nimbus21.ai"
+      },
+      "source": "./plugins/dev-doc-update",
+      "category": "documentation-context"
     }
   ]
 }
